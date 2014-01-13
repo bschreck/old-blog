@@ -1,13 +1,62 @@
-.bundle
-.DS_Store
-.sass-cache
+# Octopress/Random
 .gist-cache
 .pygments-cache
 _deploy
-public
 sass.old
 source.old
 source/_stash
 source/stylesheets/screen.css
-vendor
 node_modules
+
+# Rails
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+*.swp
+.sass-cache/
+public
+vendor
+config/database.yml
+spec/tmp/*
+coverage/
+**.orig
+.env
+
+# OSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.directory
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# RubyMine
+.idea/
+
+# TextMate
+*.tmproj
+*.tmproject
+tmtags
+
+# Vim
+.*.sw[a-z]
+*.un~
+*.~$
+Session.vim
+tags
+
+# Emacs
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*

@@ -1,0 +1,31 @@
+body > header {
+  @include box-shadow(0 0 3px rgba(0, 0, 0, 0.25));
+  background-image: url('/images/zen_with_sides.png');
+  margin-bottom: 2em;
+
+  //border-bottom: 1px solid $grayDarker;
+  .site-title-container {
+    color: $grayDarker;
+
+    background-color: $white;
+    /*
+     *border-top:1px solid $grayDarker;
+     *border-left:1px solid $grayDarker;
+     *border-right:1px solid $grayDarker;
+     */
+    padding-left: 10px;
+    padding-right:10px;
+    //padding-bottom:19px;
+    //box-shadow: 1px 1px 1px 0px rgba(0,0,0,.4);
+    .site-title {
+    color: $grayDarker;
+    font-size: 2.1em;
+    font-weight: bold;
+    //line-height: 2.5em;
+    margin-bottom: 0px;
+   }
+   .site-subtitle {
+     margin-bottom: 0px;
+   }
+  }
+}
