@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Vaulting For Mu]]></title>
+  <link href="http://bschreck.github.io/atom.xml" rel="self"/>
+  <link href="http://bschreck.github.io/"/>
+  <updated>2014-01-13T00:47:36-05:00</updated>
+  <id>http://bschreck.github.io/</id>
+  <author>
+    <name><![CDATA[Ben Schreck]]></name>
+    <email><![CDATA[benjaminschreck93@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://bschreck.github.io/blog/2014/01/13/first-post/"/>
+    <updated>2014-01-13T00:20:00-05:00</updated>
+    <id>http://bschreck.github.io/blog/2014/01/13/first-post</id>
+    <content type="html"><![CDATA[<p>Welcome to my site! This is my first post. However, I&#8217;ll be uploading
+stuff I&#8217;ve written over the past year as blog posts dated to when they
+were composed.</p>
+]]></content>
+  </entry>
+  
+</feed>
