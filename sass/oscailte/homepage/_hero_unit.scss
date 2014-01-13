@@ -61,6 +61,10 @@
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.75);
   }
 
+  .intrasquad {
+    size: 40%;
+  }
+
   hr {
     @extend .divider;
     box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.75);
