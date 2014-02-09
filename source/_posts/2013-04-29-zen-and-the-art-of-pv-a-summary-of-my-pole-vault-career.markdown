@@ -6,7 +6,7 @@ comments: true
 categories: [Pole-Vault, Zen]
 ---
 
-Today I put the finishing touches on the solution to the hardest problem I have ever faced. I've known about this problem for the last four and a half years, and have been trying to solve it since day one. It's driven me far deeper into the sport of pole vaulting than I would have ever imagined I'd be capable of. The sheer number of hours dedicated to understanding and overcoming the problem is far more than I believe most people ever dedicate to a single entity, and the variance and [word for deepness] of the emotions I've experienced as a result of it over the last 5 years has taken me on a ridiculous roller coaster ride that seems so far removed from my otherwise average upbringing.
+Today I put the finishing touches on the solution to the hardest problem I have ever faced. I've known about this problem for the last four and a half years, and have been trying to solve it since day one. It's driven me far deeper into the sport of pole vaulting than I would have ever imagined I'd be capable of. The sheer number of hours dedicated to understanding and overcoming the problem is far more than I believe most people ever dedicate to a single entity, and the variance and intensity of the emotions I've experienced as a result of it over the last 5 years has taken me on a ridiculous roller coaster ride that seems so far removed from my otherwise average upbringing.
 
 <!-- more -->
 
